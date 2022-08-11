@@ -1,0 +1,15 @@
+C:\Projects\PatternPrint\PatternPrint\bin\Debug\net6.0\PatternPrint.exe
+C:\Projects\PatternPrint\PatternPrint\bin\Debug\net6.0\PatternPrint.deps.json
+C:\Projects\PatternPrint\PatternPrint\bin\Debug\net6.0\PatternPrint.runtimeconfig.json
+C:\Projects\PatternPrint\PatternPrint\bin\Debug\net6.0\PatternPrint.dll
+C:\Projects\PatternPrint\PatternPrint\bin\Debug\net6.0\PatternPrint.pdb
+C:\Projects\PatternPrint\PatternPrint\obj\Debug\net6.0\PatternPrint.csproj.AssemblyReference.cache
+C:\Projects\PatternPrint\PatternPrint\obj\Debug\net6.0\PatternPrint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PatternPrint\PatternPrint\obj\Debug\net6.0\PatternPrint.AssemblyInfoInputs.cache
+C:\Projects\PatternPrint\PatternPrint\obj\Debug\net6.0\PatternPrint.AssemblyInfo.cs
+C:\Projects\PatternPrint\PatternPrint\obj\Debug\net6.0\PatternPrint.csproj.CoreCompileInputs.cache
+C:\Projects\PatternPrint\PatternPrint\obj\Debug\net6.0\PatternPrint.dll
+C:\Projects\PatternPrint\PatternPrint\obj\Debug\net6.0\refint\PatternPrint.dll
+C:\Projects\PatternPrint\PatternPrint\obj\Debug\net6.0\PatternPrint.pdb
+C:\Projects\PatternPrint\PatternPrint\obj\Debug\net6.0\PatternPrint.genruntimeconfig.cache
+C:\Projects\PatternPrint\PatternPrint\obj\Debug\net6.0\ref\PatternPrint.dll
