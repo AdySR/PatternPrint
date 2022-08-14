@@ -10,7 +10,8 @@ class PatternPrint
         //roughPad(5);
         //pattern1(6);
         //pattern2();
-        Pattern3();
+        //Pattern3();
+        Pattern4();
     }
 
     static void pattern1(int n)
@@ -72,6 +73,23 @@ class PatternPrint
             for(int j=1;j<=5;j++)
             {
                 Console.Write(i);
+            }
+            Console.WriteLine();
+        }
+    }
+    static void Pattern4()
+    {
+        //******
+        //******
+        //******
+        //******
+        //******
+
+        for(int i =0;i<6;i++)
+        {
+            for (int j = 0; j < 6; j++)
+            {
+                Console.Write("*");
             }
             Console.WriteLine();
         }
