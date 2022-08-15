@@ -16,7 +16,9 @@ class PatternPrint
         //Pattern5();
         //Pattern6();
         //Pattern7();
-        Pattern8();
+        //Pattern8();
+        //Pattern9();
+        Pattern10();
     }
 
     static void pattern1(int n)
@@ -174,4 +176,42 @@ class PatternPrint
             Console.WriteLine();
         }
     }
+
+    static void Pattern9()
+    {
+//*
+//**
+//***
+//****
+//*****
+        for (int i=1;i<=5;i++)
+        {
+            for(int j=1;j<=i;j++)
+            {
+                Console.Write("*");
+            }
+            Console.WriteLine();
+        }
+    }
+
+    static void Pattern10()
+    {
+
+//5
+//54
+//543
+//5432
+//54321
+
+        for (int i=5;i>0;i--)
+        {
+            for(int j=5;j>=i;j--)
+            {
+                Console.Write(j);
+            }
+            Console.WriteLine();
+        }
+    }
+
+
 }
